@@ -1,0 +1,41 @@
+_repo: Lippincott-s-Magazine-of-Popular-Literature-and-Science-Volume-11-No.-23-February-1873_13636
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf: Lippincott's Magazine
+gutenberg_issued: '2004-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13636'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature, Modern -- 19th century -- Periodicals'
+- !lcc 'AP'
+- !lcsh 'Science -- Periodicals'
+tableOfContents: "ILLUSTRATIONS\r\nSEARCHING FOR THE QUININE-PLANT IN PERU.\r\nConcluding\
+  \ Paper.\r\nA GLANCE AT THE SITE AND ANTIQUITIES OF ATHENS By J.L.T. PHILLIPS.\r\
+  \nCOMMONPLACE By CONSTANCE FENIMORE WOOLSON.\r\nPROBATIONER LEONHARD; OR, THREE\
+  \ NIGHTS IN THE HAPPY VALLEY By CAROLINE CHESEBRO.\r\nChapter IV.—The Test—With\
+  \ Mental Reservations.\r\nChapter V.—Sister Benigna.\r\nChapter VI.—The Men Of Spenersberg.\r\
+  \nChapter VII.—The Book.\r\nCHAPTER VIII.—Conference Meeting.\r\nCHAPTER IX.—Will\
+  \ The Architect Have Employment?\r\nCOUNTRY-HOUSE LIFE IN ENGLAND By REGINALD WYNFORD.\r\
+  \nTHE FOREST OF ARDEN By ITA ANIOL PROKOP.\r\nJACK, THE REGULAR By THOMAS DUNN ENGLISH.\r\
+  \nOBSERVATIONS AND ADVENTURES IN SUBMARINE DIVING By WILL WALLACE HARNEY.\r\nCONFIDENTIAL.\r\
+  \nGLIMPSES OF JOHN CHINAMAN By PRENTICE MULFORD.\r\nA WINTER REVERIE By MILLIE W.\
+  \ CARPENTER.\r\n\"PASSPORTS, GENTLEMEN!\" By A.H.\r\nOUR MONTHLY GOSSIP.\r\nThe\
+  \ Cornwallis Family.\r\nNovelties In Ethnology.\r\nThe Steam-whistle.\r\nSiamese\
+  \ News.\r\nMadison As A Temperance Man.\r\nLITERATURE OF THE DAY.\r\nBooks Received."
+title: Lippincott's Magazine of Popular Literature and Science, Volume 11, No. 23,
+  February, 1873
+url: http://www.gutenberg.org/ebooks/13636
